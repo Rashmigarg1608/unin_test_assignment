@@ -3,7 +3,7 @@ import com.knoldus.models.Employee
 
 class EmpData {
 
-    val employee:Employee = Employee("Pardeep","Chaurasiya",24,12000,"Intern","Knoldus","pardeep.chaurasiya@knoldus.com")
+    val employee:Employee = Employee("Rashmi","Garg",22,12000,"Intern","Knoldus","rashmi.garg@knoldus.com")
 
 
 }
